@@ -17,7 +17,7 @@ author_profile: true
 <span style="font-size:0.7em"> **_The B.E. Journal of Macroeconomics_**,  2015, 15(2) (with [Henrique Veras](https://sites.google.com/view/henriquefonseca/home) and [Marcelo E. A. Silva](https://sites.google.com/site/marceloeasilva/))  </span>   
 <span style="font-size:0.7em"> [[Link](https://doi.org/10.1515/bejm-2014-0018)] </span>  
 
-### In Portuguese:
+## In Portuguese:
 
 **Distributional Characteristics and the Impact of Tax Reform on Households’ Welfare in Brazil**<br/>
 <span style="font-size:0.7em"> **_Revista Brasileira de Economia_**, 2013, 67(3) (with [Jose Ricardo B. Nogueira](https://scholar.google.com/citations?user=8EEOl-sAAAAJ&hl=en) and Rozane B. de Siqueira)  </span>   
