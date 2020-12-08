@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Assistant Professor at the University of South Tampa"
   location         : "Tampa, Florida, US"
-  employer         : "Department of Economics, University of South Tampa"
+  employer         : "Department of Economics,\n University of South Tampa"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=bxIth3kAAAAJ"
   email            : "baerlocher@usf.edu"
