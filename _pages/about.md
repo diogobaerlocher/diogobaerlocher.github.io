@@ -12,7 +12,7 @@ redirect_from:
 
 ## Working Papers:
 
-#### Public Employment, Competition, and Economic Growth 
-  * _Under Review_
-  * Lastest Version: Aug, 2020 | PDF
-  * _Presentations:_ BCAM VI: Online Workshop on Public Employment  (Programme | Video) | SEA 90th Annual Meeting (Programme)
+#### **Public Employment, Competition, and Economic Growth**<br/>
+**_Under Review_**<br/>
+Lastest Version: Aug, 2020 | PDF<br/>
+**_Presentations:_** BCAM VI: Online Workshop on Public Employment  (Programme | Video) | SEA 90th Annual Meeting (Programme)
