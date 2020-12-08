@@ -12,9 +12,9 @@ redirect_from:
 
 ## Working Papers:
 
-**Public Employment, Competition, and Economic Growth**  <br/>
-<span style="font-size:0.7em"> **_Under Review_** </span>  
-[![PDF](../images/PDF_32.png "Current Version")](https://github.com/diogobaerlocher/publicEmp_Growth){:target="_blank" rel="noopener"}    [![GitHub](../images/GitHub-Mark-32px.png "More about this Project")](https://github.com/diogobaerlocher/publicEmp_Growth){:target="_blank" rel="noopener"}
+> **Public Employment, Competition, and Economic Growth**  <br/>
+> <span style="font-size:0.7em"> **_Under Review_** </span>  
+> [![PDF](../images/PDF_32.png "Current Version")](https://github.com/diogobaerlocher/publicEmp_Growth/blob/main/publicEmp.pdf){:target="_blank" rel="noopener"}    [![GitHub](../images/GitHub-Mark-32px.png "More about this Project")](https://github.com/diogobaerlocher/publicEmp_Growth){:target="_blank" rel="noopener"}
 
 **Cold Bacon: Co-Partisan Politics in Brazil**<br/>
 <span style="font-size:0.7em"> **_Revise & Resubmit_** (with [Rodrigo Schneider](https://sites.google.com/view/rodrigoaraujoschneider))</span>  
