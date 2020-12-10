@@ -7,7 +7,7 @@ author_profile: true
 
 > **Aggregate Shocks and the Brazilian Housing Market Dynamics**<br/>
 > <span style="font-size:0.7em"> **_EconomiA_**, 2019, 20(2) (with Cassio N. Bessaria and [Marcelo E. A. Silva](https://sites.google.com/site/marceloeasilva/)) </span>   
-> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Elsevier.svg" width="32" height="32" title="DOI">](https://doi.org/10.1016/j.econ.2019.08.001){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="32" height="32" title="Working Paper">](../files/housing_local.pdf){:target="_blank" rel="noopener"}
+> [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Elsevier.svg" width="32" height="32" title="DOI">](https://doi.org/10.1016/j.econ.2019.08.001){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="32" height="32" title="Working Paper">](../files/housing_local.pdf){:target="_blank" rel="noopener"}
 
 <span style="font-size:0.7em"> [[Link](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.econ.2019.08.001&sa=D&sntz=1&usg=AFQjCNE7AChBQTdhQdISplq2_vbvVjY_LA) | [Working Paper 2018]()]</span>   
 
@@ -17,7 +17,7 @@ author_profile: true
 
 > **Fiscal Shocks, the Real Exchange Rate and the Trade Balance: Some Evidence for Emerging Economies**<br/>
 > <span style="font-size:0.7em"> **_The B.E. Journal of Macroeconomics_**,  2015, 15(2) (with [Henrique Veras](https://sites.google.com/view/henriquefonseca/home) and [Marcelo E. A. Silva](https://sites.google.com/site/marceloeasilva/))  </span>   
-> [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Verlag_Walter_de_Gruyter_Logo.svg" width="32" height="32" title="DOI">](https://doi.org/10.1515/bejm-2014-0018){:target="_blank" rel="noopener"}
+> [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Verlag_Walter_de_Gruyter_Logo.svg" width="64" height="32" title="DOI">](https://doi.org/10.1515/bejm-2014-0018){:target="_blank" rel="noopener"}
 
 
 ## In Portuguese:
