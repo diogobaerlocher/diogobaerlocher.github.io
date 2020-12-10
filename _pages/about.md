@@ -23,11 +23,11 @@ redirect_from:
 
 > **Female Labor Force Participation and Economic Growth: Accounting for the Gender Bonus**<br/>
 > <span style="font-size:0.7em"> **_Under Review_** (with [Stephen L. Parente](https://publish.illinois.edu/parente/) and Eduardo Rios Neto) </span>  
-> ![PDF](../images/PDF_32.png "Current Version")](){:target="_blank" rel="noopener"} [![GitHub](../images/GitHub-Mark-32px.png "More about this Project")](){:target="_blank" rel="noopener"}  
+> [![PDF](../images/PDF_32.png "Current Version")](){:target="_blank" rel="noopener"} [![GitHub](../images/GitHub-Mark-32px.png "More about this Project")](){:target="_blank" rel="noopener"}  
 
 > **Early-Life Exposure to Malaria and Adult Mortality: Evidence from the Brazilian Eradication Campaign**<br/>
 > <span style="font-size:0.7em"> (with [Henrique Veras](https://sites.google.com/view/henriquefonseca/home)) </span>  
-> ![PDF](../images/PDF_32.png "Current Version")](https://drive.google.com/file/d/1dIZK5thBKYu-IsduU5E65SdG_z4sQW8h/view){:target="_blank" rel="noopener"}
+> [![PDF](../images/PDF_32.png "Current Version")](https://drive.google.com/file/d/1dIZK5thBKYu-IsduU5E65SdG_z4sQW8h/view){:target="_blank" rel="noopener"}
 
 ## Work in Progress:
 
