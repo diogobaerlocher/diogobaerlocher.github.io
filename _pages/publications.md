@@ -7,9 +7,7 @@ author_profile: true
 
 > **Aggregate Shocks and the Brazilian Housing Market Dynamics**<br/>
 > <span style="font-size:0.7em"> **_EconomiA_**, 2019, 20(2) (with Cassio N. Bessaria and [Marcelo E. A. Silva](https://sites.google.com/site/marceloeasilva/)) </span>   
-> [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Elsevier.svg" width="32" height="32" title="DOI">](https://doi.org/10.1016/j.econ.2019.08.001){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="32" height="32" title="Working Paper">](../files/housing_local.pdf){:target="_blank" rel="noopener"}
-
-<span style="font-size:0.7em"> [[Link](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.econ.2019.08.001&sa=D&sntz=1&usg=AFQjCNE7AChBQTdhQdISplq2_vbvVjY_LA) | [Working Paper 2018]()]</span>   
+> [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Elsevier.svg" width="32" height="32" title="DOI">](https://doi.org/10.1016/j.econ.2019.08.001){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="32" height="32" title="Working Paper">](../files/housing_local.pdf){:target="_blank" rel="noopener"}  
 
 > **Economic Effects of Demographic Dividend in Brazilian Regions**<br/>
 > <span style="font-size:0.7em"> **_The Journal of Economics of Ageing_**, 2019, 14, 100198  (with [Stephen L. Parente](https://publish.illinois.edu/parente/) and Eduardo Rios Neto) </span>   
