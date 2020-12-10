@@ -6,7 +6,7 @@ redirect_from:
 ---
 
 **Full CV:**<br/> 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/English_language.svg" width="32" height="42" title="CV">](../files/Diogo_cv.pdf) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/English_language.svg" width="42" height="32" title="CV">](../files/Diogo_cv.pdf) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flags_of_Brazil_and_Portugal.svg" width="42" height="32" title="Lattes">](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4293897T8) 
 
 ## Education
