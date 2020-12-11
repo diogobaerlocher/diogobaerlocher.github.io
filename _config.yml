@@ -81,7 +81,7 @@ social:
 # Site Author
 author:
   name             : ""
-  avatar           : "profile.png"
+  avatar           : "../files/profile.png"
   bio              : "Assistant Professor"
   location         : "Department of Economics"
   employer         : "University of South Florida"
