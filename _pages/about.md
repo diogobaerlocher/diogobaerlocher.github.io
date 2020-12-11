@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-> **Fields of Interest:** Economic Growth and Development, Population Economics, and Public Economics
-
 ## Working Papers:
 
 > **Public Employment, Competition, and Economic Growth**  <br/>
