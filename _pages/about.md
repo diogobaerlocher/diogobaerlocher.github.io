@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## Working Papers:
 
 > **Public Employment, Competition, and Economic Growth**  <br/>
