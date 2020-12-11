@@ -81,7 +81,7 @@ social:
 # Site Author
 author:
   name             : ""
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   bio              : "Assistant Professor at the University of South Florida. Interested in the fields of Economic Growth and Development, Public Economics, and Population Economics"
   location         : "Department of Economics"
   employer         : "University of South Florida"
