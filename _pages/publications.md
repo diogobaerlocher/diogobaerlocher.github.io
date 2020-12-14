@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-> **Public Employment, Competition, and Economic Growth**  <br/>
+> **Public Employment and Economic Growth**  <br/>
 > <span style="font-size:0.7em"> **_Economic Theory_**, Forthcoming  </span>  
 > [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="32" height="32" title="Working Paper">](https://github.com/diogobaerlocher/publicEmp_Growth/blob/main/publicEmp.pdf){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="32" height="32" title="More about this Project">](https://github.com/diogobaerlocher/publicEmp_Growth){:target="_blank" rel="noopener"}
 
