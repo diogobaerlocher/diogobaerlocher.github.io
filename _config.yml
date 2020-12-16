@@ -5,10 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# Theme and Skin
-theme                    : minimal-mistakes-jekyll
-minimal_mistakes_skin    : "aqua"
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Diogo Baerlocher"
