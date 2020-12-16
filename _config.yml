@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Skin:
-minimal_mistakes_skin    : "aqua"  
+minimal_mistakes_skin    : "dark"  
 
 # Site Settings
 locale                   : "en-US"
