@@ -30,7 +30,7 @@ author_profile: true
 
 > **Distributional Characteristics and the Impact of Tax Reform on Households’ Welfare in Brazil**<br/>
 > <span style="font-size:0.7em"> **_Revista Brasileira de Economia_**, 2013, 67(3) (with [Jose Ricardo B. Nogueira](https://scholar.google.com/citations?user=8EEOl-sAAAAJ&hl=en) and Rozane B. de Siqueira)  </span>   
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_FGV_-_Funda%C3%A7%C3%A3o_Getulio_Vargas.png" width="50" height="20" title="DOI">](http://bibliotecadigital.fgv.br/ojs/index.php/rbe/article/view/6159){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="32" height="32" title="Working Paper">](https://www.anpec.org.br/encontro/2011/inscricao/arquivos/000-ede137cf4e6b2040116d9a4d333e845f.pdf){:target="_blank" rel="noopener"}
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_FGV_-_Funda%C3%A7%C3%A3o_Getulio_Vargas.png" width="50" height="20" title="DOI">](http://bibliotecadigital.fgv.br/ojs/index.php/rbe/article/view/6159){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="32" height="32" title="Working Paper">](https://www.anpec.org.br/encontro/2012/inscricao/files_I/i4-47016f5fb89c1c22a982e965a16e8ca1.pdf){:target="_blank" rel="noopener"}
 
 > **Effects of Fiscal Shocks on Brazilian Labor Market**<br/>
 > <span style="font-size:0.7em"> **_Revista Brasileira de Economia_**, 2013, 67(2) (with Igor E. M. Silva and [Marcelo E. A. Silva](https://sites.google.com/site/marceloeasilva/))  </span>   
