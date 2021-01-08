@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 > **Public Employment and Economic Growth**  <br/>
-> <span style="font-size:0.7em"> **_Economic Theory_**, Forthcoming  </span>  
-> [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="32" height="32" title="Working Paper">](https://github.com/diogobaerlocher/publicEmp_Growth/blob/main/publicEmp.pdf){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="32" height="32" title="More about this Project">](https://github.com/diogobaerlocher/publicEmp_Growth){:target="_blank" rel="noopener"}
+> <span style="font-size:0.7em"> **_Economic Theory_**, 2021  </span>  
+> [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Springer.svg/1200px-Springer.svg.png" width="80" height="48" title="DOI">](https://doi.org/10.1007/s00199-020-01333-6){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="32" height="32" title="Working Paper">](https://github.com/diogobaerlocher/publicEmp_Growth/blob/main/publicEmp.pdf){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="32" height="32" title="More about this Project">](https://github.com/diogobaerlocher/publicEmp_Growth){:target="_blank" rel="noopener"}
 
 > **Cold Bacon: Co-Partisan Politics in Brazil**<br/>
 > <span style="font-size:0.7em"> **_Public Choice_**, 2021 (with [Rodrigo Schneider](https://sites.google.com/view/rodrigoaraujoschneider))</span>  
