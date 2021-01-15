@@ -10,10 +10,6 @@ redirect_from:
 ### Working Papers:
 ------
 
-> **Female Labor Force Participation and Economic Growth: Accounting for the Gender Bonus**<br/>
-> <span style="font-size:0.7em"> **_Revise & Resubmit_** (with [Stephen L. Parente](https://publish.illinois.edu/parente/) and Eduardo Rios Neto) </span>  
-> [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="32" height="32" title="Working Paper">](https://github.com/diogobaerlocher/GenderBonus/blob/main/genderbonus.pdf){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="32" height="32" title="More about this Project">](https://github.com/diogobaerlocher/GenderBonus){:target="_blank" rel="noopener"}  
-
 > **Early-Life Exposure to Malaria and Adult Mortality: Evidence from the Brazilian Eradication Campaign**<br/>
 > <span style="font-size:0.7em"> (with [Henrique Veras](https://sites.google.com/view/henriquefonseca/home)) </span>  
 > [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="32" height="32" title="Working Paper">](https://drive.google.com/file/d/1dIZK5thBKYu-IsduU5E65SdG_z4sQW8h/view){:target="_blank" rel="noopener"}
