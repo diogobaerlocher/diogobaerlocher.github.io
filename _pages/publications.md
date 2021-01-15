@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 > **Female Labor Force Participation and Economic Growth: Accounting for the Gender Bonus**<br/>
-> <span style="font-size:0.7em"> **_Economic Letters_**, Forthcoming (with [Stephen L. Parente](https://publish.illinois.edu/parente/) and Eduardo Rios Neto) </span>  
+> <span style="font-size:0.7em"> **_Economics Letters_**, Forthcoming (with [Stephen L. Parente](https://publish.illinois.edu/parente/) and Eduardo Rios Neto) </span>  
 > [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="32" height="32" title="Working Paper">](https://github.com/diogobaerlocher/GenderBonus/blob/main/genderbonus.pdf){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="32" height="32" title="More about this Project">](https://github.com/diogobaerlocher/GenderBonus){:target="_blank" rel="noopener"}  
 
 > **Public Employment and Economic Growth**  <br/>
