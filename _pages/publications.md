@@ -41,8 +41,8 @@ author_profile: true
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_FGV_-_Funda%C3%A7%C3%A3o_Getulio_Vargas.png" width="50" height="20" title="DOI">](http://bibliotecadigital.fgv.br/ojs/index.php/rbe/article/view/3890){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="32" height="32" title="Working Paper">](https://www.anpec.org.br/encontro/2011/inscricao/arquivos/000-ede137cf4e6b2040116d9a4d333e845f.pdf){:target="_blank" rel="noopener"}
 
 > **Trade Potential and Effectiveness  between the Brazilian Northeast and MERCOSUR**<br/>
-> <span style="font-size:0.7em"> **_Revista Economica do Nordeste_**, 2013, 42(2) (with [Renata Caldas](https://www.sites.google.com/site/renatamcaldas) and Joao Policarpo R. Lima) </span>   
-> [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_BNB_%281%29.svg" width="64" height="64" title="DOI">](https://www.bnb.gov.br/etene/ren){:target="_blank" rel="noopener"}
+> <span style="font-size:0.7em"> **_Revista Economica do Nordeste_**, 2013, 44(2) (with [Renata Caldas](https://www.sites.google.com/site/renatamcaldas) and Joao Policarpo R. Lima) </span>   
+> [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logo_BNB_%281%29.svg" width="64" height="64" title="DOI">](https://www.bnb.gov.br/revista/index.php/ren/article/view/78/58){:target="_blank" rel="noopener"}
 
 > **The Marginal Social Cost of Indirect Taxation in Brazil: Identifying Tax Reform Directions**<br/>
 > <span style="font-size:0.7em"> **_Brazilian Journal of Applied Economics_**, 2012 16(3) (with [Jose Ricardo B. Nogueira](https://scholar.google.com/citations?user=8EEOl-sAAAAJ&hl=en), Rozane B. de Siqueira, and Evaldo S. de Souza)  </span>   
