@@ -5,17 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-> **Female Labor Force Participation and Economic Growth: Accounting for the Gender Bonus**<br/>
-> <span style="font-size:0.7em"> **_Economics Letters_**, 2021, 200(March) (with [Stephen L. Parente](https://publish.illinois.edu/parente/) and Eduardo Rios Neto) </span>  
-> [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Elsevier.svg" width="32" height="32" title="DOI">](https://doi.org/10.1016/j.econlet.2021.109740){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="32" height="32" title="Working Paper">](https://github.com/diogobaerlocher/GenderBonus/blob/main/genderbonus.pdf){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="32" height="32" title="More about this Project">](https://github.com/diogobaerlocher/GenderBonus){:target="_blank" rel="noopener"}  
-
 > **Public Employment and Economic Growth**  <br/>
-> <span style="font-size:0.7em"> **_Economic Theory_**, 2021  </span>  
+> <span style="font-size:0.7em"> **_Economic Theory_**, 2021, Forthcoming </span>  
 > [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Springer.svg/1200px-Springer.svg.png" width="80" height="48" title="DOI">](https://doi.org/10.1007/s00199-020-01333-6){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="32" height="32" title="Working Paper">](https://github.com/diogobaerlocher/publicEmp_Growth/blob/main/publicEmp.pdf){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="32" height="32" title="More about this Project">](https://github.com/diogobaerlocher/publicEmp_Growth){:target="_blank" rel="noopener"}
 
 > **Cold Bacon: Co-Partisan Politics in Brazil**<br/>
-> <span style="font-size:0.7em"> **_Public Choice_**, 2021 (with [Rodrigo Schneider](https://sites.google.com/view/rodrigoaraujoschneider))</span>  
+> <span style="font-size:0.7em"> **_Public Choice_**, 2021, Forthcoming (with [Rodrigo Schneider](https://sites.google.com/view/rodrigoaraujoschneider))</span>  
 > [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Springer.svg/1200px-Springer.svg.png" width="80" height="48" title="DOI">](https://doi.org/10.1007/s11127-020-00869-4){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="32" height="32" title="Working Paper">](https://github.com/diogobaerlocher/ColdBacon/blob/main/coldbacon.pdf){:target="_blank" rel="noopener"} [<img src="https://static.ssrn.com/cfincludes/img/favicon/safari-pinned-tab.svg?v=2" width="32" height="32">](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3498966){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="32" height="32" title="More about this Project">](https://github.com/diogobaerlocher/ColdBacon){:target="_blank" rel="noopener"}
+
+> **Female Labor Force Participation and Economic Growth: Accounting for the Gender Bonus**<br/>
+> <span style="font-size:0.7em"> **_Economics Letters_**, 2021, 200(March) (with [Stephen L. Parente](https://publish.illinois.edu/parente/) and Eduardo Rios Neto) </span>  
+> [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Elsevier.svg" width="32" height="32" title="DOI">](https://doi.org/10.1016/j.econlet.2021.109740){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="32" height="32" title="Working Paper">](https://github.com/diogobaerlocher/GenderBonus/blob/main/genderbonus.pdf){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="32" height="32" title="More about this Project">](https://github.com/diogobaerlocher/GenderBonus){:target="_blank" rel="noopener"}  
 
 > **Aggregate Shocks and the Brazilian Housing Market Dynamics**<br/>
 > <span style="font-size:0.7em"> **_EconomiA_**, 2019, 20(2) (with Cassio N. Bessaria and [Marcelo E. A. Silva](https://sites.google.com/site/marceloeasilva/)) </span>   
