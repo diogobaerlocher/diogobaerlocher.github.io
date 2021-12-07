@@ -1,28 +1,15 @@
 ---
 permalink: /
-title: "Projects"
+title: "Diogo Baerlocher"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-### Working Papers:
-------
 
-> **Early-Life Exposure to Malaria and Adult Mortality: Evidence from the Brazilian Eradication Campaign**<br/>
-> <span style="font-size:0.7em"> (with [Henrique Veras](https://sites.google.com/view/henriquefonseca/home)) </span>  
-> [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="32" height="32" title="Working Paper">](https://drive.google.com/file/d/1dIZK5thBKYu-IsduU5E65SdG_z4sQW8h/view){:target="_blank" rel="noopener"}
+I'm a macroeconomist interested in economic growth and development. I joined the [Department of Economics](https://www.usf.edu/arts-sciences/departments/economics/) of the University of South Florida in the fall of 2019, after receiving my Ph.D. from the University of Illinois in Urbana-Champaign. In my research, I seek to understand why some countries are richer than others focusing on the role of government and demographic dynamics. Recently, I'm also interested in the interplay between geography and sub-national economic development.
 
-### Work in Progress:
-------
+My research has been published in top-field journals such as _Economic Theory_ and _Public Choice_. Before receiving my Ph.D, I also published papers on top Brazilian journals, mostly on the topics of taxation and fiscal shocks. I have experience teaching _Economic Growth_ and _Intermediate Macroeconomics_ at the undergraduate level, and _Macroeconomics_ at the graduate level.
 
-> **Health Revolution and Barriers to Economic Development**<br/>
-
-> **Financial Exclusion and Inflation Costs**<br/>
-
-> **From Stagnation to Growth: The Role of Expropriation Risk on the Fertility Transition**<br/>
-><span style="font-size:0.7em"> (with [Henrique Veras](https://sites.google.com/view/henriquefonseca/home) and [Stephen L. Parente](https://publish.illinois.edu/parente/))  </span>   
-
-> **The Long-Run Impact of Historical Pathways on Economic Development**<br/>
-> <span style="font-size:0.7em"> (with Diego Firmino, [Guilherme Lambais](https://gbrlambais.github.io/), Eustaquio Reis and [Henrique Veras](https://sites.google.com/view/henriquefonseca/home))  </span>   
+**Field of Interest:** Economic growth and Development; Public economics; Demographic economics

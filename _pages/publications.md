@@ -5,7 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-> **Public Employment and Economic Growth**  <br/>
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+<!-- > **Public Employment and Economic Growth**  <br/>
 > <span style="font-size:0.7em"> **_Economic Theory_**, 2021, Forthcoming </span>  
 > [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Springer.svg/1200px-Springer.svg.png" width="80" height="48" title="DOI">](https://doi.org/10.1007/s00199-020-01333-6){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="32" height="32" title="Working Paper">](https://github.com/diogobaerlocher/publicEmp_Growth/blob/main/publicEmp.pdf){:target="_blank" rel="noopener"} [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="32" height="32" title="More about this Project">](https://github.com/diogobaerlocher/publicEmp_Growth){:target="_blank" rel="noopener"}
 
@@ -47,4 +58,4 @@ author_profile: true
 > **The Marginal Social Cost of Indirect Taxation in Brazil: Identifying Tax Reform Directions**<br/>
 > <span style="font-size:0.7em"> **_Brazilian Journal of Applied Economics_**, 2012 16(3) (with [Jose Ricardo B. Nogueira](https://scholar.google.com/citations?user=8EEOl-sAAAAJ&hl=en), Rozane B. de Siqueira, and Evaldo S. de Souza)  </span>   
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Logo_Fearp.jpg" width="32" height="32" title="DOI">](https://www.scielo.br/scielo.php?pid=S1413-80502012000300001&script=sci_arttext){:target="_blank" rel="noopener"}
-
+ -->

@@ -5,17 +5,6 @@ redirect_from:
   - /resume
 ---
 
-**Full CV:**<br/> 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/English_language.svg" width="48" height="32" title="CV">](../files/Diogo_cv.pdf){:target="_blank" rel="noopener"} 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flags_of_Brazil_and_Portugal.svg" width="42" height="32" title="Lattes">](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4293897T8){:target="_blank" rel="noopener"} 
-
-## Education
-
-* B.A. in Economics, Universidade Federal Pernambuco, 2009
-* M.A. in Economics, Universidade Federal Pernambuco, 2012
-* Ph.D in Economics, University of Illinois at Urbana-Champaign, 2019
-
-## Positions
-
-* University of South Florida - Assistant Professor of Economics, 2019-present
+<a href="/files/Diogo_cv.pdf" target="_blank" class="btn--research" style="font-size:0.8em">Download CV <i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<iframe src="/files/Diogo_cv.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
   

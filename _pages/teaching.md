@@ -8,7 +8,11 @@ redirect_from:
 
 ### University of South Florida
 
-* Intermediate Macroeconomics (2019-) <br/> [Syllabus](../files/syllabusFA2019.pdf)
+* Macroeconomics II (2021-) <br/> [Syllabus](../files/MacroDevelopment_USF.pdf)
+
+* Economic Growth (2021-) <br/> [Syllabus](../files/growth_syllabus.pdf)
+
+* Intermediate Macroeconomics (2019-) <br/> [Syllabus](../files/intMacro_syllabus.pdf)
 
 
 ### University of Illinois at Urbana-Champaign

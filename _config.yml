@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Diogo Baerlocher"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Diogo Baerlocher"
 description              : &description "Assistant Professor at the University of South Tampa"
@@ -83,11 +83,11 @@ social:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Diogo Baerlocher"
   avatar           : "profile.png"
-  bio              : "Assistant Professor at the University of South Florida. Interested in the fields of Economic Growth and Development, Public Economics, and Population Economics"
-  location         : "Department of Economics"
-  employer         : "University of South Florida"
+  bio              : "Assistant Professor of Economics at the University of South Florida"
+  location         : 
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=bxIth3kAAAAJ"
   email            : "baerlocher@usf.edu"
@@ -184,6 +184,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/    
 #   portfolio:
 #     output: true
 #     permalink: /:collection/:path/
@@ -230,6 +233,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _projects:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true      
   # _portfolio
   - scope:
       path: ""
@@ -266,7 +278,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

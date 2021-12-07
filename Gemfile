@@ -13,7 +13,16 @@ gem "github-pages", group: :jekyll_plugins
 
 # Add skin:
 
-gem 'minimal-mistakes-jekyll', :git => 'https://github.com/mmistakes/minimal-mistakes.git', :branch => 'color-skins'
+gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes"
+# gem 'minimal-mistakes-jekyll', :git => 'https://github.com/mmistakes/minimal-mistakes.git', :branch => 'color-skins'
+
+# Added by me: 
+
+#fix eventmachine issue
+gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'
+
+#fix no time zone issue
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
@@ -29,3 +38,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+gem "webrick", "~> 1.7"

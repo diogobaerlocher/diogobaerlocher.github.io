@@ -1,0 +1,9 @@
+@article{baerlocher2021cold,
+  title={Cold bacon: co-partisan politics in {B}razil},
+  author={Baerlocher, Diogo and Schneider, Rodrigo},
+  journal={Public Choice},
+  volume={189}
+  pages={161–182},
+  year={2021},
+  publisher={Springer}
+}
