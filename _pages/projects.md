@@ -24,7 +24,7 @@ author_profile: true
 ## Work in progress:
 
 <br/>
-**The Long-Run Impact of Historical Pathways on Economic Development**<br/>
+**Historical Pathways and the Persistent Geography of Economic Activity**<br/>
 <span style="font-size:0.8em"> jointly with Diego Firmino, [Guilherme Lambais](https://gbrlambais.github.io/){:target="_blank" rel="noopener"}, Eustaquio Reis & [Henrique Veras](https://henriqueveras.github.io){:target="_blank" rel="noopener"}  </span>   
 
 **Health Revolution and Barriers to Economic Development**<br/>
