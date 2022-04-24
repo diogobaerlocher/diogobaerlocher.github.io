@@ -1,2 +1,4 @@
 _site/
+files/*.log
+files/*.synctex.gz
 
