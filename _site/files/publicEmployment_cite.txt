@@ -1,0 +1,9 @@
+﻿@article{baerlocher2022public,
+  title={Public Employment and Economic Growth},
+  author={Diogo Baerlocher},
+  journal={Economic Theory},
+  volume={73}
+  pages={211-236},
+  year={2022},
+  publisher={Springer}
+}
