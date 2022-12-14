@@ -1,2 +1,2 @@
-files/*.tex
-files/*.gz
+/files/*.tex
+/files/*.gz
