@@ -1,2 +1,3 @@
 /files/*.tex
 /files/*.gz
+/files/Diogo_cv.tex
