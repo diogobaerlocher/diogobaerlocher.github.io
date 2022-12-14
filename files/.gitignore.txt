@@ -1,0 +1,2 @@
+files/*.tex
+files/*.gz
