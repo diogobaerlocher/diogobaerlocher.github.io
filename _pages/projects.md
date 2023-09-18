@@ -36,6 +36,9 @@ author_profile: true
 ## Work in progress:
 
 <br/>
+**Finding Home When Disaster Strikes: Dust Bowl Migration and Housing in Los Angeles**<br/>
+<span style="font-size:0.8em"> jointly with [Gustavo Cortes](https://sites.google.com/site/cortesgustavos){:target="_blank" rel="noopener"} and [Vinicios Sant'Anna](https://www.vpsantanna.com/index){:target="_blank" rel="noopener"}  </span> 
+
 **Health Revolution and Barriers to Economic Development**<br/>
 
 **From Stagnation to Growth: The Role of Expropriation Risk on the Fertility Transition**<br/>
