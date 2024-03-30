@@ -1,9 +1,0 @@
-@article{baerlocher2021female,
-  title={Female Labor Force Participation and economic growth: Accounting for the gender bonus},
-  author={Baerlocher, Diogo and Parente, Stephen L and Rios-Neto, Eduardo},
-  journal={Economics Letters},
-  volume={200},
-  pages={109740},
-  year={2021},
-  publisher={Elsevier}
-}

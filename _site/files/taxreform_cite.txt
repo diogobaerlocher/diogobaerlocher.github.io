@@ -1,9 +1,0 @@
-@article{carvalho2013caracteristicas,
-  title={Caracter{\'i}sticas distributivas e impacto de reformas tribut{\'a}rias sobre o bem-estar das fam{\'i}lias no {B}rasil},
-  author={Carvalho, Diogo Baerlocher and Siqueira, Rozane Bezerra de and Nogueira, Jos{\'e} Ricardo Bezerra},
-  journal={Revista Brasileira de Economia},
-  volume={67},
-  pages={263--282},
-  year={2013},
-  publisher={SciELO Brasil}
-}

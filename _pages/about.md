@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Diogo Baerlocher"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-I'm a macroeconomist interested in economic growth and development. I joined the [Department of Economics](https://www.usf.edu/arts-sciences/departments/economics/) of the University of South Florida in the fall of 2019, after receiving my Ph.D. from the University of Illinois in Urbana-Champaign. In my research, I seek to understand why some countries are richer than others focusing on the role of government and demographic dynamics. Recently, I'm also interested in the interplay between geography and sub-national economic development.
+{% include base_path %}
 
-My research has been published in top-field journals such as _Economic Theory_ and _Public Choice_. Before receiving my Ph.D, I also published papers on top Brazilian journals, mostly on the topics of taxation and fiscal shocks. I have experience teaching _Economic Growth_ and _Intermediate Macroeconomics_ at the undergraduate level, and _Macroeconomics_ at the graduate level.
-
-**Field of Interest:** Economic growth and Development; Public economics; Demographic economics
+<span class="title"> Working Papers </span>
+{% for post in site.projects reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+<br/>
+<span class="title"> Peer-Reviewed Publications </span>
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+<br/>
+<span class="title"> Peer-Reviewed Publications (Portuguese) </span>
+{% for post in site.portuguese reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+<br/>
+<span class="title"> Teaching </span>
+<p style="font-size:14px"><b> University of South Florida </b> <br/>
+<span style="font-size:12px"> 
+Intermediate Macroeconomics (undergraduate) <br/>
+Economic Growth (undergraduate) <br/>
+Macroeconomics II (graduate)  
+</span>
+</p>
+<p style="font-size:14px"><b> University of Illinois </b> <br/>
+<span style="font-size:12px"> 
+Economic Growth (undergraduate)
+</span>
+</p>

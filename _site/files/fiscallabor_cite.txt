@@ -1,9 +1,0 @@
-@article{carvalho2013efeitos,
-  title={Efeitos dos choques fiscais sobre o mercado de trabalho brasileiro},
-  author={Carvalho, Diogo Baerlocher and Silva, Marcelo Eduardo Alves da and Silva, Igor {\'E}zio Maciel},
-  journal={Revista Brasileira de Economia},
-  volume={67},
-  pages={177--200},
-  year={2013},
-  publisher={SciELO Brasil}
-}

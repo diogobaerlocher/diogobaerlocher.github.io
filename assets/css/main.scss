@@ -1,6 +1,5 @@
 ---
 ---
-
 /*
  *    Minimal Mistakes Jekyll Theme
  *
@@ -39,3 +38,92 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css");
+
+// STYLES
+
+p.prp {
+	font-size: 14px;
+	margin-bottom: -15px;
+}
+span.title{
+	font-weight: bold;
+	color: $title-color
+}
+span.journal {
+	font-size: 0.8em;
+	font-weight: bold;
+	font-style: italic;
+	color: $journal-color;
+}
+span.text {
+	font-size: 0.8em;
+}
+span.add {
+	margin-left: -2px;
+}
+
+
+// ACCORDION
+
+.accordion{
+	transform: translateZ(0);
+  	background: $background-color;
+}
+
+.accordion > .accordion-toggle{
+	position: absolute;
+	opacity: 0;
+	display: none;
+}
+
+.accordion > label{
+	position: relative;
+	height: auto;
+	line-height: 15px;
+	padding: 0px;
+	font-size: 14px;
+	cursor: pointer;
+	border: none;
+  	outline: none;
+	margin-bottom: -15px;
+	padding-right: 50px;
+}
+
+.accordion > label:after {
+  content: '\002B';
+  position: absolute;
+  top: 0px;
+  right: 20px;
+  font-family: fontawesome;
+  transform: rotate(90deg);
+  #transition: .3s transform;
+}
+
+.accordion > section{
+	height: 0;
+	#transition: .3s all;
+	overflow: hidden;
+	font-size: 0.8em;
+}
+
+.accordion > .accordion-toggle:checked ~ label:after{
+ transform: rotate(0deg);
+ content: '\2212';
+}
+
+.accordion > .accordion-toggle:checked ~ section{
+  height: 100%;
+  line-height: 14px;
+  #box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  padding-bottom: 20px;
+}
+
+.accordion > section p {
+  margin: 15px 0;
+  padding: 0 20px;
+  font-size: 0.8em;
+}
+
