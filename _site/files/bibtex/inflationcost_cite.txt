@@ -1,0 +1,7 @@
+@article{baerlocher24,
+	title = {Financial exclusion and inflation costs},
+	journal = {Economic Theory Bulletin},
+	author = {Baerlocher, Diogo},
+	month = apr,
+	year = {2024},
+}
