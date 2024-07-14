@@ -5,12 +5,15 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 # Skin:
-minimal_mistakes_skin    : "dark"  
+minimal_mistakes_skin    : "default"  
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Diogo Baerlocher"
 description              : &description "Assistant Professor at the University of South Tampa"
@@ -86,12 +89,14 @@ author:
   name             : "Diogo Baerlocher"
   avatar           : "profile.png"
   bio              : "Assistant Professor of Economics at the University of South Florida"
+  phdat            : "PhD Economics - University of Illinois"
+  fields           : "Macroeconomic Development & Public Economics"
   location         : 
   employer         : 
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=bxIth3kAAAAJ"
   email            : "baerlocher@usf.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -103,27 +108,32 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-9647-6219"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  ideasrepec       : "https://ideas.repec.org/f/pba1528.html"
+  #mathgenealogy    : "https://www.mathgenealogy.org/id.php?id=256962"
 
 
 # Reading Files
 include:
   - .htaccess
   - _pages
+  - _publications
+  - _projects
+  - _portuguese
   - files
 exclude:
   - "*.sublime-project"
@@ -178,22 +188,15 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/    
-#   portfolio:
-#     output: true
-#     permalink: /:collection/:path/
-#   talks:
-#     output: true
-#     permalink: /:collection/:path/
-
+  portuguese:
+    output: true
+    permalink: /:collection/:path/    
 
 # Defaults
 defaults:
@@ -215,15 +218,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -233,6 +227,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _portuguese
+  - scope:
+      path: ""
+      type: portuguese
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true      
   # _projects:
   - scope:
       path: ""
@@ -242,23 +245,6 @@ defaults:
       author_profile: true
       share: true
       comments: true      
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 sidebar:
   - title: "Title"
@@ -288,6 +274,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-include-cache
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

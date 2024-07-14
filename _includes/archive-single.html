@@ -26,15 +26,118 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if post.collection == 'publications' %}
-<!--         {{ title }}
- -->      {% elsif post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+    {% if post.collection == 'publications' or post.collection == 'portuguese' or post.collection == 'projects' %}
+    <div class="accordion">
+      <input id="{{ post.id }}" type="checkbox" class="accordion-toggle" name="toggle" />
+        <label for="{{ post.id }}">
+
+          <p class="prp">
+          {% if post.doilink %}
+            <a href="{{ post.doilink }}" target="_blank" style = "text-decoration:none">{{ title }}<i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+          {% else %}
+            {{ title }}
+          {% endif %}
+
+          {% if post.journal or post.year or post.coauthors %} <br/> {% endif %}
+          {% if post.journal %} <span class="journal">{{ post.journal }}</span> {% endif %}
+          {% if post.year %}<span class="add">,</span> <span class="text"> {{ post.year }} </span> {% endif %}
+     
+          {% if post.coauthors %}
+            <span class = "text" > (with 
+            {% for key in post.coauthors %}
+              {% if forloop.first %}  {% else %}
+              {% if forloop.last %} and {% else %} <span class="add">,</span> {% endif %}
+              {% endif %}
+              {% if key[1] %}
+              <a href="{{ key[1] }}" target="_blank">{{ key[0] }}</a>
+              {% else %}
+              {{ key[0] }} 
+              {% endif %}
+            {% endfor %}   
+            <span class="add">)</span></span>   
+          {% endif %}
+          </p>
+        </label>
+        <section>
+          {% if post.buttons %}
+            <br/> <br/>
+            {% if post.buttons.wppdf %}
+              <a href="{{ post.buttons.wppdf }}" target="_blank" class="btn--research" style="font-size:0.8em">Working Paper<i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+            {% endif %}
+            {% if post.buttons.wplink %}
+            <a href="{{ post.buttons.wplink }}" target="_blank" class="btn--research" style="font-size:0.8em">Working Paper<i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+            {% endif %}
+            {% if post.buttons.srrn %}
+            <a href="{{ post.buttons.srrn }}" target="_blank" class="btn--research" style="font-size:0.8em">Working Paper<i class="ai ai-ssrn ai-fw" aria-hidden="true"></i></a>
+            {% endif %}
+            {% if post.buttons.repec %}
+            <a href="{{ post.buttons.repec }}" target="_blank" class="btn--research" style="font-size:0.8em">Working Paper<i class="ai ai-ideas-repec ai-fw" aria-hidden="true"></i></a>
+            {% endif %}
+            {% if post.buttons.repfiles %}
+            <a href="{{ post.buttons.repfiles }}" target="_blank" class="btn--research" style="font-size:0.8em">Replication Files <i class="ai ai-open-data ai-fw" aria-hidden="true"></i></a>
+            {% endif %}
+            {% if post.buttons.bibtex %}
+            <a href="{{ post.buttons.bibtex }}" target="_blank" class="btn--research" style="font-size:0.8em">BibTeX <i class="fas fa-file-alt zoom" aria-hidden="true"></i></a>
+            {% endif %}
+          {% endif %}
+          {% if post.abstract %}
+            <br/> <br/>
+            {% if post.buttons %}<br/>{% endif %}
+            <span class="text" style="margin-bottom:50px;"> <b>Abstract:</b> {{post.abstract }} </span>
+          {% endif %}
+          {% if post.presentations %}
+            <br/> <br/>
+            {% if post.buttons or post.abstract %}<br/>{% endif %}
+            <span class="text"> <b> Presentations: </b>
+            {% for key in post.presentations %}
+              {% if forloop.first %}  {% else %} | {% endif %}
+              {{ key }} 
+            {% endfor %}   
+            </span>   
+          {% endif %}
+        </section>
+      </div>
+
+    {% endif %}
+
+    <!-- <p class="prp">
+      {% if post.collection == 'projects' %}
+
+      {% if post.doilink %}
+        <b>></b> <a href="{{ post.doilink }}" target="_blank" style = "text-decoration:none">{{ title }}</a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      <b>></b> {{ title }}
       {% endif %}
-    </h2>
+
+      {% if post.coauthors %}
+        <br/>
+        <span class = "text" > (with 
+        {% for key in post.coauthors %}
+          {% if forloop.first %}  {% else %}
+          {% if forloop.last %} and {% else %} <span class="add">,</span> {% endif %}
+          {% endif %}
+          {% if key[1] %}
+          <a href="{{ key[1] }}" target="_blank">{{ key[0] }}</a>
+          {% else %}
+          {{ key[0] }} 
+          {% endif %}
+        {% endfor %}   
+        <span class="add">)</span></span>   
+      {% endif %}
+
+      {% if post.presentations %}
+        <br/>
+        <span class="text">
+        <b> Presentations: </b>
+        {% for key in post.presentations %}
+          {% if forloop.first %}  {% else %} | {% endif %}
+          {{ key }} 
+        {% endfor %}   
+        </span>   
+      {% endif %}
+
+    {% endif %}
+    </p>     -->
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>

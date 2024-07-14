@@ -22,7 +22,7 @@ author_profile: true
 <!-- <a href="/files/fiscallabor_cite.txt" target="_blank" class="btn--research" style="font-size:0.8em">BibTeX <i class="fas fa-file-alt zoom" aria-hidden="true"></i></a> -->
 
 **Financial Exclusion and Inflation Costs** <br/>
-<a href="/files/inflationcosts.pdf" target="_blank" class="btn--research" style="font-size:0.8em">WP Version <i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<a href="https://www.usf.edu/arts-sciences/departments/economics/documents/wpaper/2023-01.pdf" target="_blank" class="btn--research" style="font-size:0.8em">WP Version <i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 
 **Early-Life Exposure to Malaria and Adult Mortality: Evidence from the Brazilian Eradication Campaign**<br/>
 <span style="font-size:0.8em">jointly with [Henrique Veras](https://henriqueveras.github.io){:target="_blank" rel="noopener"} </span>  
