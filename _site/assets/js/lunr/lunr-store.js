@@ -101,7 +101,7 @@ var store = [{
         "url": "/publication/cold_bacon",
         "teaser": null
       },{
-        "title": "Female Labor Force Participation and Economic Growth",
+        "title": "Female Labor Force Participation and Economic Growth: Accounting for the gender bonus",
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/publication/gender_bonus",
