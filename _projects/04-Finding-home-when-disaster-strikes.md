@@ -2,7 +2,7 @@
 title        : "Finding Home When Disaster Strikes: Dust Bowl Migration and Housing in Los Angeles"
 collection   : projects
 permalink    : /projects/finding-home-when-disaster-strikes
-doilink      : 
+doilink      : https://www.vpsantanna.com/files/research/dust_bowl_migration_and_housing.pdf
 journal      :
 year         :
 coauthors    : {"Gustavo Cortes" : "https://sites.google.com/site/cortesgustavos",
