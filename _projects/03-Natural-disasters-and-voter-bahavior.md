@@ -3,7 +3,7 @@ title        : "Natural disasters and voting behavior under authoritarian regime
 collection   : projects
 permalink    : /projects/natural-disasters-and-voting-behavior
 doilink      : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4249006
-journal      : "Conditionally Accepted - Journal of Economic Behavior and Organization"
+journal      : "Accepted - Journal of Economic Behavior and Organization"
 year         :
 coauthors    : {"Renata Caldas" : "https://sites.google.com/site/renatamcaldas/",
                 "Francisco Cavalcanti" : "https://sites.google.com/view/franciscocavalcanti/" ,
