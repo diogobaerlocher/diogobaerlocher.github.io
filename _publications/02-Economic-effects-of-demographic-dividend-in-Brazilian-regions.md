@@ -9,7 +9,7 @@ coauthors    : {"Stephen L. Parente" : "https://publish.illinois.edu/parente/",
                 "Eduardo Rios Neto"}
 buttons      : 
     wppdf    : "/files/dividend_revised.pdf"
-    bibtex : "/files/bibtex/dividendBrazil_cite.txt"
+    scholar  : "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C10&q=Economic+effects+of+demographic+dividend+in+Brazilian+regions&btnG="
     repfiles : "/files/replication_files/JEOA19_Replication.zip"
 abstract     : "Exploiting heterogeneity across Brazilian micro-regions over the 1970–2000 period, this paper examines whether the demographic dividend extends beyond a pure accounting effect. Using a Sys-GMM approach, it finds evidence that changes in age structure have only pure accounting effects after controlling for human capital. Therefore, in the case of Brazilian micro-regions, there is a second demographic dividend, which is associated with education. This second dividend is the far more important of the two dividends in terms of economic growth. In a counterfactual exercise, we show that the accounting effect is responsible for less that 10% of the income gap between the poorest and richest regions in Brazil."    
 ---

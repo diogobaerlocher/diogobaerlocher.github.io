@@ -10,5 +10,5 @@ coauthors    : {"Renata Caldas" : "https://www.sites.google.com/site/renatamcald
 buttons      : 
     wppdf    : 
     srrn     : 
-    bibtex   : "/files/tradeNE_cite.txt"
+    scholar  : "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C10&q=Potencialidade+e+efetividade+das+rela%C3%A7%C3%B5es+comerciais+entre+o+Nordeste+do+Brasil+e+o+Mercosul+&btnG="
 ---

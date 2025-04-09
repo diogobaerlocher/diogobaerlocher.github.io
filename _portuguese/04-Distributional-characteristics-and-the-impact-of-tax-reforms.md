@@ -11,5 +11,5 @@ buttons      :
     wppdf    : 
     wplink   : "https://www.anpec.org.br/encontro/2012/inscricao/files_I/i4-47016f5fb89c1c22a982e965a16e8ca1.pdf"
     srrn     : 
-    bibtex   : "/files/taxreform_cite.txt"
+    scholar  : "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C10&q=Características+distributivas+e+impacto+de+reformas+tributárias+sobre+o+bem-estar+das+famílias+no+Brasil&btnG="
 ---

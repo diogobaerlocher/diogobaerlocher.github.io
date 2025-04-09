@@ -10,6 +10,6 @@ coauthors    : {"Igor E. M. Silva",
 buttons      : 
     wppdf    : 
     wplink   : "https://www.anpec.org.br/encontro/2011/inscricao/arquivos/000-ede137cf4e6b2040116d9a4d333e845f.pdf"
-    bibtex   : "/files/fiscallabor_cite.txt"
+    scholar  : "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C10&q=Efeitos+dos+choques+fiscais+sobre+o+mercado+de+trabalho+brasileiro&btnG="
     repfiles : 
 ---

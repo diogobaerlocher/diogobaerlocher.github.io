@@ -11,5 +11,5 @@ coauthors    : {"Jose Ricardo Nogueira" : "https://scholar.google.com/citations?
 buttons      : 
     wppdf    : 
     srrn     : 
-    bibtex   : "/files/indirectTax_cite.txt"
+    scholar  : "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C10&q=O+custo+marginal+social+da+tributa%C3%A7%C3%A3o+indireta+no+Brasil%3A+identificando+dire%C3%A7%C3%B5es+de+reforma&btnG="
 ---

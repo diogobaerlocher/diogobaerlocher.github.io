@@ -65,12 +65,6 @@ var store = [{
         "url": "/projects/old-but-gold",
         "teaser": null
       },{
-        "title": "Natural disasters and voting behavior under authoritarian regimes: Evidence from the Brazilian shrimp vote",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/projects/natural-disasters-and-voting-behavior",
-        "teaser": null
-      },{
         "title": "Finding Home When Disaster Strikes: Dust Bowl Migration and Housing in Los Angeles",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -117,5 +111,11 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/publication/inflationCosts",
+        "teaser": null
+      },{
+        "title": "Natural disasters and voting behavior under authoritarian regimes: Evidence from the Brazilian shrimp vote",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/publications/natural-disasters-and-voting-behavior",
         "teaser": null
       }]

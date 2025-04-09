@@ -79,6 +79,9 @@
             {% if post.buttons.bibtex %}
             <a href="{{ post.buttons.bibtex }}" target="_blank" class="btn--research" style="font-size:0.8em">BibTeX <i class="fas fa-file-alt zoom" aria-hidden="true"></i></a>
             {% endif %}
+            {% if post.buttons.scholar %}
+            <a href="{{ post.buttons.scholar }}" target="_blank" class="btn--research" style="font-size:0.8em">Google Scholar <i class="ai ai-google-scholar ai-fw" aria-hidden="true"></i></a>
+            {% endif %}
           {% endif %}
           {% if post.abstract %}
             <br/> <br/>
