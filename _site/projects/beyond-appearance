@@ -19,7 +19,7 @@
 
 
 
-<title>Finding Home When Disaster Strikes: Dust Bowl Migration and Housing in Los Angeles -</title>
+<title>Beyond Appearance: The Socioeconomic and Historical Roots of Racial Identity in Brazil -</title>
 
 
 
@@ -29,15 +29,15 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="">
-<meta property="og:title" content="Finding Home When Disaster Strikes: Dust Bowl Migration and Housing in Los Angeles">
+<meta property="og:title" content="Beyond Appearance: The Socioeconomic and Historical Roots of Racial Identity in Brazil">
 
 
-  <link rel="canonical" href="http://localhost:4000/projects/finding-home-when-disaster-strikes">
-  <meta property="og:url" content="http://localhost:4000/projects/finding-home-when-disaster-strikes">
+  <link rel="canonical" href="http://localhost:4000/projects/beyond-appearance">
+  <meta property="og:url" content="http://localhost:4000/projects/beyond-appearance">
 
 
 
-  <meta property="og:description" content="">
+  <meta property="og:description" content="Assistant Professor at the University of South Tampa">
 
 
 
@@ -252,7 +252,7 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Finding Home When Disaster Strikes: Dust Bowl Migration and Housing in Los Angeles">
+    <meta itemprop="headline" content="Beyond Appearance: The Socioeconomic and Historical Roots of Racial Identity in Brazil">
     <meta itemprop="description" content="">
     
     
@@ -260,7 +260,7 @@
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">Finding Home When Disaster Strikes: Dust Bowl Migration and Housing in Los Angeles
+          <h1 class="page__title" itemprop="headline">Beyond Appearance: The Socioeconomic and Historical Roots of Racial Identity in Brazil
 </h1>
           
         
@@ -275,7 +275,6 @@
 
       <section class="page__content" itemprop="text">
         
-
         
       </section>
 
@@ -295,11 +294,11 @@
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=http://localhost:4000/projects/finding-home-when-disaster-strikes" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=http://localhost:4000/projects/beyond-appearance" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/projects/finding-home-when-disaster-strikes" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/projects/beyond-appearance" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/projects/finding-home-when-disaster-strikes" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/projects/beyond-appearance" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
       
@@ -307,12 +306,11 @@
 
   <nav class="pagination">
     
-      <a href="http://localhost:4000/projects/old-but-gold" class="pagination--pager" title="Old but Gold: Historical Pathways and Path Dependence
+      <a href="http://localhost:4000/projects/skills-and-labor-regulation" class="pagination--pager" title="Skills and the Regulation of Labor
 ">Previous</a>
     
     
-      <a href="http://localhost:4000/projects/skills-and-labor-regulation" class="pagination--pager" title="Skills and the Regulation of Labor
-">Next</a>
+      <a href="#" class="pagination--pager disabled">Next</a>
     
   </nav>
 

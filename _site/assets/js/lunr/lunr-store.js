@@ -71,6 +71,18 @@ var store = [{
         "url": "/projects/finding-home-when-disaster-strikes",
         "teaser": null
       },{
+        "title": "Skills and the Regulation of Labor",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/projects/skills-and-labor-regulation",
+        "teaser": null
+      },{
+        "title": "Beyond Appearance: The Socioeconomic and Historical Roots of Racial Identity in Brazil",
+        "excerpt":"","categories": [],
+        "tags": [],
+        "url": "/projects/beyond-appearance",
+        "teaser": null
+      },{
         "title": "Fiscal Shocks, the Real Exchange Rate and the Trade Balance",
         "excerpt":" ","categories": [],
         "tags": [],

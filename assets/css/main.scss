@@ -127,3 +127,26 @@ span.add {
   font-size: 0.8em;
 }
 
+// SPACING BETWEEN ITEMS
+
+.archive__item {
+  margin-bottom: 1.75em; /* Adjust the spacing as you like */
+  padding-bottom: 0em;
+}
+
+/* ADDS BULLET POINT
+.archive__item {
+  position: relative;
+  padding-left: 2.5em;
+}
+
+.archive__item::before {
+  content: "▪️";
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 0.8em;
+}
+*/
+
+
