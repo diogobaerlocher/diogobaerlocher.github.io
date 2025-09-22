@@ -6,7 +6,6 @@ doilink      : https://www.usf.edu/arts-sciences/departments/economics/documents
 journal      : Under Review
 year         :
 coauthors    : {"Rodrigo Schneider" : "https://sites.google.com/view/rodrigoaraujoschneider"}
-coauthors    : 
 abstract     : "This paper examines how racial identity misrepresentation influences public sector hiring in Brazil. We focus on misaligned white candidates — those who self-identify as white but are unlikely to be classified as such by facial recognition — and exploit close electoral races using a regression discontinuity design. Narrow victories by these candidates reduce the share of nonwhite hires in municipal legislative offices by approximately 20%, with effects concentrated in temporary and managerial positions. We also find a significant decline in nonwhite leadership in municipal secretariats. These results indicate that misaligned whiteness shapes racial representation through political and bureaucratic channels."                
 presentations:   
 ---
