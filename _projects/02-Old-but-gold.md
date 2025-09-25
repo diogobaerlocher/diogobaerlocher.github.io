@@ -3,7 +3,7 @@ title        : "Old but Gold: Historical Pathways and Path Dependence"
 collection   : projects
 permalink    : /projects/old-but-gold
 doilink      : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513384
-journal      : "Under review"
+journal      : "Revise & Resubmit - Journal of Urban Economics <br>"
 year         :
 coauthors    : {"Diego Firmino", 
                 "Guilherme Lambais" : "https://gbrlambais.github.io/",
