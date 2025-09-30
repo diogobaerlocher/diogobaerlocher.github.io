@@ -4,7 +4,7 @@ collection   : publications
 permalink    : /publications/natural-disasters-and-voting-behavior
 doilink      : https://doi.org/10.1016/j.jebo.2025.106998
 journal      : "Journal of Economic Behavior and Organization"
-year         : "2025"
+year         : "2025 <br>"
 coauthors    : {"Renata Caldas" : "https://sites.google.com/site/renatamcaldas/",
                 "Francisco Cavalcanti" : "https://sites.google.com/view/franciscocavalcanti/" ,
                 "Rodrigo Schneider" : "https://sites.google.com/view/rodrigoaraujoschneider"}
