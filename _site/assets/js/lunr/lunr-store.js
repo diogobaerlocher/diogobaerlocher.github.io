@@ -83,6 +83,12 @@ var store = [{
         "url": "/projects/beyond-appearance",
         "teaser": null
       },{
+        "title": "Racial Self-Classification, Group Consciousness, and Public Employment Representation",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/projects/Group-consciousness-and-public-employment",
+        "teaser": null
+      },{
         "title": "Fiscal Shocks, the Real Exchange Rate and the Trade Balance",
         "excerpt":" ","categories": [],
         "tags": [],
