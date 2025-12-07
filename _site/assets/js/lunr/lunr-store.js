@@ -71,12 +71,6 @@ var store = [{
         "url": "/projects/finding-home-when-disaster-strikes",
         "teaser": null
       },{
-        "title": "Skills and the Regulation of Labor",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/projects/skills-and-labor-regulation",
-        "teaser": null
-      },{
         "title": "Beyond Appearance: The Socioeconomic and Historical Roots of Racial Identity in Brazil",
         "excerpt":"","categories": [],
         "tags": [],
@@ -135,5 +129,11 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/publications/natural-disasters-and-voting-behavior",
+        "teaser": null
+      },{
+        "title": "Skills and the Regulation of Labor",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/publications/skills-and-labor-regulation",
         "teaser": null
       }]
