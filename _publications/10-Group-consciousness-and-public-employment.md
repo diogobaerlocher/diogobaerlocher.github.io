@@ -3,8 +3,8 @@ title        : "Racial Self-Classification, Group Consciousness, and Public Empl
 collection   : publications
 permalink    : /publications/Group-consciousness-and-public-employment
 doilink      : https://doi.org/10.1016/j.jdeveco.2026.103755
-journal      : "Journal of Development Economics <br>"
-year         : "Forthcoming"
+journal      : "Journal of Development Economics"
+year         : "Forthcoming <br>"
 coauthors    : {"Rodrigo Schneider" : "https://sites.google.com/view/rodrigoaraujoschneider"}
 buttons      : 
     wppdf    : https://www.usf.edu/arts-sciences/departments/economics/documents/wpaper/2026-01.pdf
