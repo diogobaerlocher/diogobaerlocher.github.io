@@ -1,9 +1,0 @@
-@article{baerlocher2019economic,
-  title={Economic effects of demographic dividend in {B}razilian regions},
-  author={Baerlocher, Diogo and Parente, Stephen L and Rios-Neto, Eduardo},
-  journal={The Journal of the Economics of Ageing},
-  volume={14},
-  pages={100198},
-  year={2019},
-  publisher={Elsevier}
-}

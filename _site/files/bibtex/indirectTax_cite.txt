@@ -1,9 +1,0 @@
-@article{siqueira2012custo,
-  title={O custo marginal social da tributa{\c{c}}{\~a}o indireta no {B}rasil: identificando dire{\c{c}}{\~o}es de reforma},
-  author={Siqueira, Rozane Bezerra de and Nogueira, Jos{\'e} Ricardo Bezerra and Souza, Evaldo Santana de and Carvalho, Diogo Baerlocher},
-  journal={Economia Aplicada},
-  volume={16},
-  pages={365--380},
-  year={2012},
-  publisher={SciELO Brasil}
-}
