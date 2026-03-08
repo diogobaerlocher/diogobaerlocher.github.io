@@ -8,6 +8,8 @@ year         : "Forthcoming <br>"
 coauthors    : {"Rodrigo Schneider" : "https://sites.google.com/view/rodrigoaraujoschneider"}
 buttons      : 
     wppdf    : https://www.usf.edu/arts-sciences/departments/economics/documents/wpaper/2026-01.pdf
+    scholar  : https://scholar.google.com/scholar?hl=en&as_sdt=0%2C10&q=Racial+self-classification%2C+group+consciousness%2C+and+public+employment+representation&btnG=
+    repfiles : https://digitalcommonsdata.usf.edu/datasets/b7bdv5gdf8/1
 abstract     : "This paper examines how racial self-classification among elected officials influences public sector hiring in Brazil. We focus on misaligned white candidates---those who self-identify as white but are unlikely to be classified as such by facial classification algorithms---and exploit close electoral races for municipal councils using a regression discontinuity design. Narrow victories by these candidates reduce the share of nonwhite hires in municipal legislative offices by approximately 20% relative to the average. The effect appears in the public sector but not in the private sector, and is more pronounced among temporary workers, over whom elected officials have greater hiring discretion. A decomposition by counterfactual type suggests the effect is driven by differences among white-identified candidates rather than by the displacement of nonwhite officeholders. Our findings are robust to propensity score matching, an ex ante candidate selection strategy that addresses order-statistics bias in multi-member elections, and a range of alternative specifications."                
 presentations:   
 ---
