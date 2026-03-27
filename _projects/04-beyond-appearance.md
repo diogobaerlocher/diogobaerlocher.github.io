@@ -3,7 +3,7 @@ title        : "Beyond Appearance: The Socioeconomic and Historical Roots of Rac
 collection   : projects
 permalink    : /projects/beyond-appearance
 doilink      : https://www.usf.edu/arts-sciences/departments/economics/documents/wpaper/2026-01.pdf
-journal      : 
+journal      : "Under Review"
 year         : 
 coauthors    : {"Renata Caldas" : "https://sites.google.com/site/renatamcaldas/",
                 "Francisco Cavalcanti" : "https://sites.google.com/view/franciscocavalcanti/" }
