@@ -4,7 +4,7 @@ collection   : publications
 permalink    : /publications/old-but-gold
 doilink      : https://doi.org/10.1016/j.jue.2026.103863
 journal      : "Journal of Urban Economics"
-year         : "Forthcoming <br>"
+year         : "2026 <br>"
 coauthors    : {"Guilherme Lambais" : "https://gbrlambais.github.io/",
                 "Eustaquio Reis",  
                 "Diego Silva",
