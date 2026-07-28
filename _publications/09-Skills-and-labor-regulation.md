@@ -4,7 +4,7 @@ collection   : publications
 permalink    : /publications/skills-and-labor-regulation
 doilink      : https://link.springer.com/article/10.1007/s00199-025-01695-9
 journal      : "Economic Theory"
-year         : "2025"
+year         : "2026"
 coauthors    : 
 buttons      :
     repec    : "https://www.usf.edu/arts-sciences/departments/economics/documents/wpaper/2025-03.pdf"
