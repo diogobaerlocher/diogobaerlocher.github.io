@@ -1,0 +1,54 @@
+name: Build CV
+
+# Regenerates files/Diogo_cv.pdf whenever the CV's sources change, so the PDF
+# on the website can never drift from the YAML again.
+#
+# Note the paths filter deliberately excludes files/Diogo_cv.pdf: the commit
+# this workflow makes therefore cannot retrigger the workflow.
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - '_data/cv.yml'
+      - '_publications/**'
+      - '_projects/**'
+      - '_portuguese/**'
+      - 'files/build_cv.py'
+      - 'files/Diogo_cv.tex'
+      - 'files/simple_style.cls'
+      - '.github/workflows/build-cv.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate cv_body.tex from YAML
+        run: |
+          pip install pyyaml
+          python3 files/build_cv.py
+
+      - name: Compile PDF
+        uses: xu-cheng/latex-action@v3
+        with:
+          working_directory: files
+          root_file: Diogo_cv.tex
+
+      - name: Commit the rebuilt PDF
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --force files/Diogo_cv.pdf
+          git diff --staged --quiet && echo "PDF unchanged" && exit 0
+          git commit -m "rebuild CV PDF [skip ci]"
+          git push

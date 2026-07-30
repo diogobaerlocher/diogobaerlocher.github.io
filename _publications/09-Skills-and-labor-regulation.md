@@ -1,14 +1,26 @@
 ---
-title        : "Skills and the Regulation of Labor"
-collection   : publications
-permalink    : /publications/skills-and-labor-regulation
-doilink      : https://link.springer.com/article/10.1007/s00199-025-01695-9
-journal      : "Economic Theory"
-year         : "2026"
-coauthors    : 
-buttons      :
-    repec    : "https://www.usf.edu/arts-sciences/departments/economics/documents/wpaper/2025-03.pdf"
-    scholar  : https://scholar.google.com/scholar?hl=en&as_sdt=0%2C10&q=Skills+and+the+Regulation+of+Labor+diogo+baerlocher&btnG=
-abstract     : "This paper investigates the relationship between labor regulation and the skill composition of the workforce. Using a quantitative model calibrated to U.S. data, I show that labor market frictions induced by regulation have contrasting effects on different types of workers and across time horizons. Increases in vacancy posting costs reduce welfare for both skilled and unskilled workers, but they raise wages for the unskilled while lowering wages for the skilled. Similarly, policies that strengthen workers' bargaining power tend to benefit unskilled workers but impose costs on skilled workers through reduced earnings and firm profitability. On the empirical side, I exploit health improvements as an instrument for the share of skilled workers to estimate a causal relationship between workforce composition and labor regulation. The findings indicate that countries with larger shares of skilled workers tend to adopt less stringent labor regulations, highlighting how shifts in human capital can shape institutional outcomes."                
-presentations:   
+title: "Skills and the Regulation of Labor"
+collection: "publications"
+permalink: "/publications/skills-and-labor-regulation"
+journal: "Economic Theory"
+volume: 82
+pages: "251--272"
+year: 2026
+doilink: "https://link.springer.com/article/10.1007/s00199-025-01695-9"
+buttons:
+  repec: "https://www.usf.edu/arts-sciences/departments/economics/documents/wpaper/2025-03.pdf"
+  scholar: "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C10&q=Skills+and+the+Regulation+of+Labor+diogo+baerlocher&btnG="
+abstract: >-
+    This paper investigates the relationship between labor regulation and the skill
+    composition of the workforce. Using a quantitative model calibrated to U.S. data, I show
+    that labor market frictions induced by regulation have contrasting effects on different
+    types of workers and across time horizons. Increases in vacancy posting costs reduce
+    welfare for both skilled and unskilled workers, but they raise wages for the unskilled
+    while lowering wages for the skilled. Similarly, policies that strengthen workers'
+    bargaining power tend to benefit unskilled workers but impose costs on skilled workers
+    through reduced earnings and firm profitability. On the empirical side, I exploit health
+    improvements as an instrument for the share of skilled workers to estimate a causal
+    relationship between workforce composition and labor regulation. The findings indicate
+    that countries with larger shares of skilled workers tend to adopt less stringent labor
+    regulations, highlighting how shifts in human capital can shape institutional outcomes.
 ---

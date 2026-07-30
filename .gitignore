@@ -5,3 +5,11 @@ _site/
 Gemfile.lock
 *.log
 *.gz
+
+# LaTeX build artifacts
+*.synctex.gz
+*.aux
+*.out
+*.fls
+*.fdb_latexmk
+files/cv_body.tex

@@ -1,0 +1,202 @@
+# CV-only content.
+#
+# Papers are NOT here: they live in _publications/, _projects/ and _portuguese/,
+# because the website renders them too. Everything in this file is typeset into
+# the CV only and never appears on the site.
+#
+# `include: false` keeps a record in place without printing it. Use it for
+# anything you might want back later — it stays greppable and structured instead
+# of being recoverable only from git history.
+
+contact:
+  department: "Department of Economics"
+  address: "4202 E. Fowler Avenue, CMC342"
+  city: "Tampa, FL, 33620"
+  email: "baerlocher@usf.edu"
+  website: "diogobaerlocher.github.io"
+  scholar: "https://scholar.google.com/citations?hl=en&user=bxIth3kAAAAJ"
+  orcid: "https://orcid.org/0000-0002-9647-6219"
+
+appointments:
+  - institution: "University of South Florida"
+    roles:
+      - title: "Associate Professor"
+        unit: "Department of Economics"
+        years: "2026 - present"
+      - title: "Assistant Professor"
+        unit: "Department of Economics"
+        years: "2019 - 2026"
+
+education:
+  - institution: "University of Illinois at Urbana-Champaign"
+    degrees:
+      - degree: "Ph.D. in Economics"
+        years: "2012 - 2019"
+  - institution: "Universidade Federal de Pernambuco"
+    degrees:
+      - degree: "M.Sc. in Economics"
+        years: "2010 - 2012"
+      - degree: "B.Sc. in Economics"
+        years: "2005 - 2009"
+
+research_interests:
+  - "Economic Growth and Development"
+  - "Public Economics"
+  - "Demographic Economics"
+
+# Papers with no circulating draft yet, so they have no file in _projects/.
+work_in_progress:
+  - title: "From Stagnation to Growth: The Role of Expropriation Risk on the Fertility Transition"
+    coauthors: ["Henrique Veras", "Stephen L. Parente"]
+
+teaching:
+  - institution: "University of South Florida"
+    courses:
+      - title: "Macroeconomics II"
+        level: "graduate"
+      - title: "Intermediate Macroeconomics"
+        level: "undergraduate"
+      - title: "Economic Growth"
+        level: "undergraduate"
+
+# Selected, and only talks you gave yourself. Venues where a coauthor presented
+# joint work are deliberately absent.
+presentations:
+  - venue: "Midwest International Economic Development Conference"
+    year: 2025
+  - venue: "University of Central Florida"
+    year: 2025
+    invited: true
+  - venue: "Urban Economics Association"
+    year: 2024
+  - venue: "Mariana Talks"
+    year: 2024
+    invited: true
+  - venue: "Florida Workshop in Applied and Theoretical Economics"
+    year: 2024
+  - venue: "Society for the Advancement of Economic Theory"
+    year: 2022
+  - venue: "Southern Economic Association"
+    year: 2020
+  - venue: "BCAM VI: Online Workshop on Public Employment"
+    year: 2020
+    invited: true
+
+  # Dropped: repeated regional workshop, home-institution series, and 2019
+  # job-market flyouts. Flip include to true to restore any of them.
+  - venue: "Florida Workshop in Applied and Theoretical Economics"
+    year: 2025
+    include: false
+  - venue: "Florida Workshop in Applied and Theoretical Economics"
+    year: 2023
+    include: false
+  - venue: "Florida Workshop in Applied and Theoretical Economics"
+    year: 2022
+    include: false
+  - venue: "Sustain-A-Bull Series, University of South Florida"
+    year: 2023
+    invited: true
+    include: false
+  - venue: "Kenyon College"
+    year: 2019
+    include: false
+  - venue: "University of Wisconsin at Whitewater"
+    year: 2019
+    include: false
+  - venue: "University of South Florida"
+    year: 2019
+    include: false
+  - venue: "University of Windsor"
+    year: 2019
+    include: false
+
+service:
+  institutional:
+    - institution: "University of South Florida"
+      units:
+        - unit: "Department of Economics"
+          roles:
+            - "Governance and Evaluation Committee (2026 - 2028)"
+            - "Chair of Research Committee (2022 - present)"
+            - "WATE organizing committee (2022)"
+            - "Annual Evaluations Guidelines Committee (2021)"
+            - "Research committee (2019 - 2021)"
+        - unit: "College of Arts and Sciences"
+          roles:
+            - "Graduate committee (2022 - 2024)"
+
+  scientific_committee:
+    - "Brazilian Econometric Society Conference (2025)"
+
+  discussant:
+    - "Florida Workshop in Applied and Theoretical Economics (2025)"
+    - "Urban Economics Association Conference (2024)"
+    - "Florida Workshop in Applied and Theoretical Economics (2024)"
+
+  # Alphabetical, no repeat counts: the list signals range, not volume.
+  referee:
+    - "Applied Economics Letters"
+    - "The B.E. Journal of Macroeconomics"
+    - "EconomiA"
+    - "Economic Analysis and Policy"
+    - "Economic Modelling"
+    - "Economic Theory"
+    - "Journal of Development Economics"
+    - "Journal of Economic Behavior and Organization"
+    - "Journal of Labor Research"
+    - "Nova Economia"
+    - "Population Review"
+    - "Public Choice"
+    - "Quarterly Review of Economics and Finance"
+    - "Revista Brasileira de Economia"
+    - "Social Policy and Administration"
+    - "World Development"
+
+advising:
+  chair:
+    - name: "Benedetta Bastianelli"
+      role: "Co-Chair"
+      institution: "USF"
+      degree: "PhD Economics"
+    - name: "Sheikh Ashekan"
+      role: "Co-Chair"
+      institution: "USF"
+      degree: "PhD Economics"
+  member:
+    - name: "Hsiao Jui Su"
+      institution: "USF"
+      degree: "PhD Economics"
+    - name: "Manqi Zhang"
+      institution: "USF"
+      degree: "PhD Economics"
+    - name: "Karina Gabitova"
+      institution: "USF"
+      degree: "PhD Economics"
+    - name: "Maksat Jumamyradov"
+      institution: "USF"
+      degree: "PhD Economics"
+    - name: "Brian Hornung"
+      institution: "USF"
+      degree: "PhD Economics"
+    - name: "Jefferson Vieira Brito da Hora"
+      institution: "UFPE"
+      degree: "Masters Economics"
+
+# Retired: all of these are graduate-school prizes 12+ years old, which date the
+# CV to your student years rather than adding to it. Kept as a record.
+honors:
+  include: false
+  entries:
+    - institution: "University of Illinois at Urbana-Champaign"
+      awards:
+        - "Robert E. Demarest Memorial Teaching Award (2016, 2017)"
+        - "Summer Research Fellowship (2016)"
+        - "Robert Willis Harberson Memorial Dissertation Fellowship (2014)"
+        - "List of Teachers Ranked as Excellent by their Students"
+    - institution: "Universidade Federal de Pernambuco"
+      awards:
+        - "Best Master's Thesis in the Department of Economics (2012)"
+    - institution: "Conferences"
+      awards:
+        - "Encontro Pernambucano de Economia: Second best article (2014)"
+        - "Brazilian Northeastern Bank: Third best Master's Thesis (2013)"

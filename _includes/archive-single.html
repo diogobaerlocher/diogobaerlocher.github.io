@@ -43,18 +43,18 @@
           {% if post.year %}<span class="add">,</span> <span class="text"> {{ post.year }} </span> {% endif %}
      
           {% if post.coauthors %}
-            <span class = "text" > (with 
-            {% for key in post.coauthors %}
+            <span class = "text" > (with
+            {% for author in post.coauthors %}
               {% if forloop.first %}  {% else %}
               {% if forloop.last %} and {% else %} <span class="add">,</span> {% endif %}
               {% endif %}
-              {% if key[1] %}
-              <a href="{{ key[1] }}" target="_blank">{{ key[0] }}</a>
+              {% if author.url %}
+              <a href="{{ author.url }}" target="_blank">{{ author.name }}</a>
               {% else %}
-              {{ key[0] }} 
+              {{ author.name }}
               {% endif %}
-            {% endfor %}   
-            <span class="add">)</span></span>   
+            {% endfor %}
+            <span class="add">)</span></span>
           {% endif %}
           </p>
         </label>
@@ -67,17 +67,14 @@
             {% if post.buttons.wplink %}
             <a href="{{ post.buttons.wplink }}" target="_blank" class="btn--research" style="font-size:0.8em">Working Paper<i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
             {% endif %}
-            {% if post.buttons.srrn %}
-            <a href="{{ post.buttons.srrn }}" target="_blank" class="btn--research" style="font-size:0.8em">Working Paper<i class="ai ai-ssrn ai-fw" aria-hidden="true"></i></a>
+            {% if post.buttons.ssrn %}
+            <a href="{{ post.buttons.ssrn }}" target="_blank" class="btn--research" style="font-size:0.8em">Working Paper<i class="ai ai-ssrn ai-fw" aria-hidden="true"></i></a>
             {% endif %}
             {% if post.buttons.repec %}
             <a href="{{ post.buttons.repec }}" target="_blank" class="btn--research" style="font-size:0.8em">Working Paper<i class="ai ai-ideas-repec ai-fw" aria-hidden="true"></i></a>
             {% endif %}
             {% if post.buttons.repfiles %}
             <a href="{{ post.buttons.repfiles }}" target="_blank" class="btn--research" style="font-size:0.8em">Replication Files <i class="ai ai-open-data ai-fw" aria-hidden="true"></i></a>
-            {% endif %}
-            {% if post.buttons.bibtex %}
-            <a href="{{ post.buttons.bibtex }}" target="_blank" class="btn--research" style="font-size:0.8em">BibTeX <i class="fas fa-file-alt zoom" aria-hidden="true"></i></a>
             {% endif %}
             {% if post.buttons.scholar %}
             <a href="{{ post.buttons.scholar }}" target="_blank" class="btn--research" style="font-size:0.8em">Google Scholar <i class="ai ai-google-scholar ai-fw" aria-hidden="true"></i></a>
@@ -88,60 +85,11 @@
             {% if post.buttons %}<br/>{% endif %}
             <span class="text" style="margin-bottom:50px;"> <b>Abstract:</b> {{post.abstract }} </span>
           {% endif %}
-          {% if post.presentations %}
-            <br/> <br/>
-            {% if post.buttons or post.abstract %}<br/>{% endif %}
-            <span class="text"> <b> Presentations: </b>
-            {% for key in post.presentations %}
-              {% if forloop.first %}  {% else %} | {% endif %}
-              {{ key }} 
-            {% endfor %}   
-            </span>   
-          {% endif %}
         </section>
       </div>
 
     {% endif %}
 
-    <!-- <p class="prp">
-      {% if post.collection == 'projects' %}
-
-      {% if post.doilink %}
-        <b>></b> <a href="{{ post.doilink }}" target="_blank" style = "text-decoration:none">{{ title }}</a>
-      {% else %}
-      <b>></b> {{ title }}
-      {% endif %}
-
-      {% if post.coauthors %}
-        <br/>
-        <span class = "text" > (with 
-        {% for key in post.coauthors %}
-          {% if forloop.first %}  {% else %}
-          {% if forloop.last %} and {% else %} <span class="add">,</span> {% endif %}
-          {% endif %}
-          {% if key[1] %}
-          <a href="{{ key[1] }}" target="_blank">{{ key[0] }}</a>
-          {% else %}
-          {{ key[0] }} 
-          {% endif %}
-        {% endfor %}   
-        <span class="add">)</span></span>   
-      {% endif %}
-
-      {% if post.presentations %}
-        <br/>
-        <span class="text">
-        <b> Presentations: </b>
-        {% for key in post.presentations %}
-          {% if forloop.first %}  {% else %} | {% endif %}
-          {{ key }} 
-        {% endfor %}   
-        </span>   
-      {% endif %}
-
-    {% endif %}
-    </p>     -->
-    
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}

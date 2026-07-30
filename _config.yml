@@ -136,6 +136,8 @@ include:
   - _portuguese
   - files
 exclude:
+  - files/build_cv.py   # CV build tooling, not web content
+  - files/cv_body.tex   # generated
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
