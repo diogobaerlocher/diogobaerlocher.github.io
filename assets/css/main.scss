@@ -121,7 +121,10 @@ span.add {
 /* Softer than the default .btn--research: these sit under every entry now, and
    in full link-blue they out-shouted the paper titles above them. */
 .accordion > .paper-links .btn--research{
-	font-size: 0.72em;
+	/* 0.64em, not 0.8em: these used to sit inside <section>, which applies its
+	   own font-size:0.8em, so their effective size was 0.8 x 0.8. Moving them
+	   out lost that outer multiplier -- this restores the original size. */
+	font-size: 0.64em;
 	color: $text-color;
 	border-color: mix($text-color, $background-color, 35%);
 
@@ -139,8 +142,21 @@ span.add {
   height: 100%;
   line-height: 1.5;
   #box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
-  padding-top: 12px;
+  padding-top: 16px;
   padding-bottom: 20px;
+}
+
+/* Entries with no buttons have <section> directly after the label, so it
+   absorbs the label's -15px bottom margin and the abstract crowds the entry.
+   Where .paper-links sits in between, it absorbs that margin instead. */
+.accordion > .accordion-toggle:checked ~ label + section{
+  padding-top: 32px;
+}
+
+/* Sidebar CV button: .btn defaults to $type-size-6 (0.75em, ~12px), which reads
+   small next to the bio text beside it. */
+.author__cv .btn{
+	font-size: 0.875em;
 }
 
 /* No abstract to reveal: drop the +/- marker and the pointer cursor.
