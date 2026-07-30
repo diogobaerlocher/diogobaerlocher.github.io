@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Diogo Baerlocher"
-excerpt: "About me"
+excerpt: "Associate Professor of Economics at the University of South Florida. Research in macroeconomic development, public economics, and political economy."
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+I am an Associate Professor in the [Department of Economics](https://www.usf.edu/arts-sciences/departments/economics/) at the University of South Florida. My research combines growth theory with reduced-form empirical work, studying how history, demography, and public institutions shape long-run development. Much of it focuses on Brazil.
 
 <span class="title"> Working Papers </span>
 {% for post in site.projects reversed %}
@@ -26,15 +27,15 @@ redirect_from:
 {% endfor %}
 <br/>
 <span class="title"> Teaching </span>
-<p style="font-size:16px"><b> University of South Florida </b> <br/>
-<span style="font-size:14px"> 
+<p style="font-size:1rem"><b> University of South Florida </b> <br/>
+<span style="font-size:0.875rem"> 
 Intermediate Macroeconomics (undergraduate) <br/>
 Economic Growth (undergraduate) <br/>
 Macroeconomics II (graduate)  
 </span>
 </p>
-<p style="font-size:16px"><b> University of Illinois </b> <br/>
-<span style="font-size:14px"> 
+<p style="font-size:1rem"><b> University of Illinois </b> <br/>
+<span style="font-size:0.875rem"> 
 Economic Growth (undergraduate)
 </span>
 </p>

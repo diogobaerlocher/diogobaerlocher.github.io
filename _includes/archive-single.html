@@ -27,8 +27,12 @@
     {% endif %}
 
     {% if post.collection == 'publications' or post.collection == 'portuguese' or post.collection == 'projects' %}
-    <div class="accordion">
+    <!-- Entries with no abstract (the Portuguese papers) have nothing behind the
+         toggle, so they get no checkbox and no +/- marker. -->
+    <div class="accordion{% unless post.abstract %} accordion--static{% endunless %}">
+      {% if post.abstract %}
       <input id="{{ post.id }}" type="checkbox" class="accordion-toggle" name="toggle" />
+      {% endif %}
         <label for="{{ post.id }}">
 
           <p class="prp">
@@ -43,6 +47,7 @@
           {% if post.year %}<span class="add">,</span> <span class="text"> {{ post.year }} </span> {% endif %}
      
           {% if post.coauthors %}
+            <br/>
             <span class = "text" > (with
             {% for author in post.coauthors %}
               {% if forloop.first %}  {% else %}
@@ -58,9 +63,11 @@
           {% endif %}
           </p>
         </label>
-        <section>
-          {% if post.buttons %}
-            <br/> <br/>
+
+        <!-- Links sit outside <section> so they are always visible: they are the
+             point of the page, and the toggle should only hide the abstract. -->
+        {% if post.buttons %}
+          <p class="paper-links">
             {% if post.buttons.wppdf %}
               <a href="{{ post.buttons.wppdf }}" target="_blank" class="btn--research" style="font-size:0.8em">Working Paper<i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
             {% endif %}
@@ -79,13 +86,14 @@
             {% if post.buttons.scholar %}
             <a href="{{ post.buttons.scholar }}" target="_blank" class="btn--research" style="font-size:0.8em">Google Scholar <i class="ai ai-google-scholar ai-fw" aria-hidden="true"></i></a>
             {% endif %}
-          {% endif %}
-          {% if post.abstract %}
-            <br/> <br/>
-            {% if post.buttons %}<br/>{% endif %}
-            <span class="text" style="margin-bottom:50px;"> <b>Abstract:</b> {{post.abstract }} </span>
-          {% endif %}
+          </p>
+        {% endif %}
+
+        {% if post.abstract %}
+        <section>
+          <span class="text"> <b>Abstract:</b> {{ post.abstract }} </span>
         </section>
+        {% endif %}
       </div>
 
     {% endif %}

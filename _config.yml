@@ -13,10 +13,10 @@ minimal_mistakes_skin    : "default"
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
-title_separator          : ""
+title                    : "Diogo Baerlocher"
+title_separator          : "|"
 name                     : &name "Diogo Baerlocher"
-description              : &description "Assistant Professor at the University of South Florida"
+description              : &description "Associate Professor of Economics at the University of South Florida"
 url                      : https://diogobaerlocher.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "diogobaerlocher/diogobaerlocher.github.io"
@@ -68,7 +68,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "/images/profile.png"  # shown when a link is shared
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -88,7 +88,7 @@ social:
 author:
   name             : "Diogo Baerlocher"
   avatar           : "profile.png"
-  bio              : "Assistant Professor of Economics at the University of South Florida"
+  bio              : "Associate Professor of Economics at the University of South Florida"
   phdat            : "PhD Economics - University of Illinois"
   fields           : "Macroeconomic Development & Public Economics"
   location         : 

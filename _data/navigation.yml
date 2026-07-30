@@ -1,4 +1,4 @@
-# main links links
+# Masthead links. The site title itself links home, so this only carries extras.
 main:
-  - title: ""
-    url: /about/
+  - title: "CV"
+    url: /files/Diogo_cv.pdf

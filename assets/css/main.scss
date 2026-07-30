@@ -107,6 +107,14 @@ span.add {
 	font-size: 0.8em;
 }
 
+/* Always-visible paper links. The label above carries margin-bottom:-15px,
+   so this needs its own top margin to clear it. */
+.accordion > .paper-links{
+	margin: 24px 0 0;
+	padding: 0;
+	line-height: 2;
+}
+
 .accordion > .accordion-toggle:checked ~ label:after{
  transform: rotate(0deg);
  content: '\2212';
@@ -114,9 +122,21 @@ span.add {
 
 .accordion > .accordion-toggle:checked ~ section{
   height: 100%;
-  line-height: 14px;
+  line-height: 1.5;
   #box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  padding-top: 12px;
   padding-bottom: 20px;
+}
+
+/* No abstract to reveal: drop the +/- marker and the pointer cursor.
+   Must follow ".accordion > label:after" -- same specificity, source order wins. */
+.accordion--static > label{
+	cursor: default;
+	padding-right: 0;
+}
+
+.accordion--static > label:after{
+	content: none;
 }
 
 .accordion > section p {
