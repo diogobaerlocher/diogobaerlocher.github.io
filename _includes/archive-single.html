@@ -42,7 +42,7 @@
             {{ title }}
           {% endif %}
 
-          {% if post.journal or post.year or post.coauthors %} <br/> {% endif %}
+          {% if post.journal or post.year %} <br/> {% endif %}
           {% if post.journal %} <span class="journal">{{ post.journal }}</span> {% endif %}
           {% if post.year %}<span class="add">,</span> <span class="text"> {{ post.year }} </span> {% endif %}
      
