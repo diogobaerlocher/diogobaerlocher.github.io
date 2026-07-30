@@ -14,7 +14,12 @@ layout: compress
   <body>
 
     {% include browser-upgrade.html %}
-    {% include masthead.html %}
+    {% comment %}
+      Masthead intentionally omitted. On a single-page site it navigates
+      nowhere, and its only contents duplicated the sidebar: the name and the
+      CV link. site.title is still set in _config.yml because the <title> tag,
+      og:site_name and search results depend on it.
+    {% endcomment %}
 
     {{ content }}
 
