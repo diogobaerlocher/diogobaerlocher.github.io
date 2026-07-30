@@ -153,8 +153,18 @@ span.add {
 
 /* Sidebar CV button. In rem, not em: .btn's own $type-size-6 is relative to the
    sidebar's base, so an em value compounds downward instead of growing. */
+/* !important throughout: .btn sets "color: #fff !important" and .btn--inverse
+   sets colour and border with !important too, so specificity alone won't win. */
 .author__cv .btn{
 	font-size: 0.85rem;
+	color: $link-color !important;
+	border-color: $link-color !important;
+
+	&:hover{
+		color: #fff !important;
+		background-color: $link-color;
+		border-color: $link-color !important;
+	}
 }
 
 /* No abstract to reveal: drop the +/- marker and the pointer cursor.
