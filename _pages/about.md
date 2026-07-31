@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
- I'm an Associate Professor of Economics at the University of South Florida. My research asks why living standards differ across places, groups, and time, mostly through the lens of labor markets: how they respond to demographic change, how workers and activity reallocate across space, and how policy and politics shape them. Much of my work is set in Brazil and identified off historical episodes.
+I'm an Associate Professor of Economics at the University of South Florida. My research asks why living standards differ across places, groups, and time, and I come at that question from both the aggregate and the individual side. My focus has been on labor market dynamics, the spatial reallocation of people and activity and political behavior. Much of my work is set in Brazil and identified off historical episodes.
 
 <span class="title"> Working Papers </span>
 {% for post in site.projects reversed %}  
