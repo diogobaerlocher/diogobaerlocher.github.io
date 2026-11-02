@@ -48,6 +48,8 @@ research_interests:
 work_in_progress:
   - title: "From Stagnation to Growth: The Role of Expropriation Risk on the Fertility Transition"
     coauthors: ["Henrique Veras", "Stephen L. Parente"]
+    # Circulating as "Strategic Fertility and the Demographic Transition" in _projects/.
+    include: false
 
 teaching:
   - institution: "University of South Florida"

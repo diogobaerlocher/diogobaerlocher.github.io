@@ -190,9 +190,10 @@ for paper in working:
     out += [paper_block(paper), ""]
 
 # Work in progress ----------------------------------------------------------
-if cv.get("work_in_progress"):
+wip = [item for item in cv.get("work_in_progress") or [] if shown(item)]
+if wip:
     out += [r"\section{Work in Progress}", ""]
-    for item in cv["work_in_progress"]:
+    for item in wip:
         out.append(tex(item["title"]) + r" \\")
         out += ["(with %s)" % names(item["coauthors"]), ""]
 
