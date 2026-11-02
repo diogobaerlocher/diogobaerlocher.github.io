@@ -4,7 +4,7 @@ collection: "projects"
 permalink: "/projects/strategic-fertility-and-the-demographic-transition"
 doilink: "https://henriqueveras.github.io/files/WP_fertility.pdf"
 coauthors:
-  - name: "Stephen Parente"
+  - name: "Stephen L. Parente"
     url: "https://economics.illinois.edu/profile/parente"
   - name: "Henrique Veras"
     url: "https://henriqueveras.github.io"
