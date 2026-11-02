@@ -9,7 +9,7 @@ year: 2019
 doilink: "https://doi.org/10.1016/j.jeoa.2019.100198"
 coauthors:
   - name: "Stephen L. Parente"
-    url: "https://publish.illinois.edu/parente/"
+    url: "https://economics.illinois.edu/profile/parente"
   - name: "Eduardo Rios-Neto"
 buttons:
   wppdf: "/files/dividend_revised.pdf"

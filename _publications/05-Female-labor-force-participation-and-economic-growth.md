@@ -9,7 +9,7 @@ year: 2021
 doilink: "https://doi.org/10.1016/j.econlet.2021.109740"
 coauthors:
   - name: "Stephen L. Parente"
-    url: "https://publish.illinois.edu/parente/"
+    url: "https://economics.illinois.edu/profile/parente"
   - name: "Eduardo Rios-Neto"
 buttons:
   wppdf: "/files/genderbonus.pdf"
